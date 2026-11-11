@@ -1,0 +1,25 @@
+agent_id,first_name,last_name,branch,state,hire_date,license_number,is_active
+1,John,Smith,"Hartford, CT",CT,2019-12-02,CT-788159,True
+2,Christian,Dorsey,"New Haven, CT",CT,2016-10-24,CT-246668,True
+3,Lauren,Romero,"Boston, MA",MA,2019-11-13,MA-106092,True
+4,Elizabeth,Morales,"Providence, RI",RI,2022-12-14,RI-308105,True
+5,John,Schmidt,"Albany, NY",NY,2018-03-12,NY-142211,True
+6,Matthew,Jimenez,"Manchester, NH",NH,2019-09-21,NH-880060,True
+7,Nathan,Horton,"Hartford, CT",CT,2015-05-10,CT-268099,True
+8,Michael,Hudson,"New Haven, CT",CT,2020-05-17,CT-797557,True
+9,Damon,Jones,"Boston, MA",MA,2016-05-01,MA-541550,True
+10,James,Franklin,"Providence, RI",RI,2020-07-22,RI-938672,True
+11,Sharon,Reed,"Albany, NY",NY,2016-06-05,NY-440669,True
+12,Jasmine,Mills,"Manchester, NH",NH,2023-10-02,NH-519300,True
+13,Logan,Pineda,"Hartford, CT",CT,2023-04-27,CT-984015,True
+14,Susan,Hobbs,"New Haven, CT",CT,2016-06-22,CT-215063,True
+15,James,Shaw,"Boston, MA",MA,2023-11-21,MA-122179,True
+16,Jennifer,Davis,"Providence, RI",RI,2018-11-10,RI-624288,False
+17,John,Bailey,"Albany, NY",NY,2022-09-04,NY-347993,True
+18,Ray,Coleman,"Manchester, NH",NH,2024-04-22,NH-458760,True
+19,Christina,Mcpherson,"Hartford, CT",CT,2021-09-11,CT-873253,False
+20,John,Benitez,"New Haven, CT",CT,2020-05-20,CT-403527,True
+21,Lindsey,Daniels,"Boston, MA",MA,2015-12-05,MA-897861,True
+22,Linda,Kelly,"Providence, RI",RI,2021-12-04,RI-259903,True
+23,Nicole,Medina,"Albany, NY",NY,2017-02-04,NY-361584,True
+24,Elizabeth,Jones,"Manchester, NH",NH,2016-04-16,NH-376331,True
